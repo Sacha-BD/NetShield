@@ -28,15 +28,17 @@ Le projet est exécuté localement dans un environnement isolé composé de troi
 
 ## 📁 Structure du projet
 
+## 📁 Structure du projet
+
+```bash
 NetShield/
-│
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
 │
 ├── dashboard/                   # Interface Streamlit
 │   └── dashboard.py             ← Le dashboard Streamlit
-│                                
+│
 ├── detection/                   # Script de blocage automatique
 │   └── auto_block.py            ← Script de détection et blocage automatique
 │
@@ -47,6 +49,7 @@ NetShield/
 └── docs/                        # Documentation et visuels
     └── screenshots/             ← (facultatif) captures pour le README
 
+--
 
 ## ✨ Fonctionnalités
 
