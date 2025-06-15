@@ -78,7 +78,8 @@ NetShield/
 
 Voici un aperçu du dashboard Streamlit en fonctionnement sur la VM de monitoring :
 
-![NetShield Dashboard](docs/screenshots/dashboard.png)
+![NetShield Dashboard](docs/screenshots/dashboard1.png)
+![NetShield Dashboard](docs/screenshots/dashboard2.png)
 
 > 📌 *Le tableau présente les alertes Suricata (TCP/UDP/ICMP) en temps réel avec filtres par IP, protocole et port, ainsi que les IP automatiquement bloquées.*
 
