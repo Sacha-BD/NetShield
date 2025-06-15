@@ -49,7 +49,7 @@ NetShield/
 └── docs/                        # Documentation et visuels
     └── screenshots/             ← (facultatif) captures pour le README
 
---
+```
 
 ## ✨ Fonctionnalités
 
