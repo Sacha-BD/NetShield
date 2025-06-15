@@ -34,7 +34,6 @@ Le projet est exécuté localement dans un environnement isolé composé de troi
 NetShield/
 ├── README.md
 ├── LICENSE
-├── requirements.txt
 │
 ├── dashboard/                   # Interface Streamlit
 │   └── dashboard.py             ← Le dashboard Streamlit
@@ -47,7 +46,7 @@ NetShield/
 │   └── start_attack.sh          ← Le script bash pour lancer l'attaque
 │
 └── docs/                        # Documentation et visuels
-    └── screenshots/             ← (facultatif) captures pour le README
+    └── screenshots/             ← captures pour le README
 
 ```
 
